@@ -1,0 +1,15 @@
+{
+  "name": "chrome-tip",
+  "version": "0.0.1",
+  "description": "chrome tip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xujun",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-tool": "^1.0.5"
+  }
+}
