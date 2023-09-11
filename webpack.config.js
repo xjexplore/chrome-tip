@@ -1,6 +1,5 @@
 const path = require('path');
 
-// Builds web module. Only really used in example code / static site.
 module.exports = (env, argv) => ({
     mode: 'production',
 	entry: {
